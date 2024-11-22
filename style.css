@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 300;
+    padding-top: 16px;
+    /* text-align: center; */
+}
+
+.firstParagrap {
+    font-size: 20px;
+    padding-bottom: 16px;
+}
+.aboutHeading {
+    padding-top: 14px;
+}
+
+.about {
+    padding-bottom: 16px;
+}
+
+.myFavorite {
+    padding-top: 16px;
+}
+
+.appList {
+    padding-bottom: 16px;
+}
+
+.imagesHeading {
+    padding-bottom: 16px;
+}
+
+.myReflex {
+    padding-bottom: 16px;
+}
+
+.photo {
+    width: 50%;
+}
+
+.lastFigure {
+    padding-bottom: 24px;
+}
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+footer {
+    padding-top: 24px;
+    padding-left: 36px;
+    padding-bottom: 36px;
+}
